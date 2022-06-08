@@ -1,0 +1,15 @@
+D:\JDFolder\CodingDojo-FullTime\Csharp\IronNinja\obj\Debug\net6.0\IronNinja.csproj.AssemblyReference.cache
+D:\JDFolder\CodingDojo-FullTime\Csharp\IronNinja\obj\Debug\net6.0\IronNinja.GeneratedMSBuildEditorConfig.editorconfig
+D:\JDFolder\CodingDojo-FullTime\Csharp\IronNinja\obj\Debug\net6.0\IronNinja.AssemblyInfoInputs.cache
+D:\JDFolder\CodingDojo-FullTime\Csharp\IronNinja\obj\Debug\net6.0\IronNinja.AssemblyInfo.cs
+D:\JDFolder\CodingDojo-FullTime\Csharp\IronNinja\obj\Debug\net6.0\IronNinja.csproj.CoreCompileInputs.cache
+D:\JDFolder\CodingDojo-FullTime\Csharp\IronNinja\bin\Debug\net6.0\IronNinja.exe
+D:\JDFolder\CodingDojo-FullTime\Csharp\IronNinja\bin\Debug\net6.0\IronNinja.deps.json
+D:\JDFolder\CodingDojo-FullTime\Csharp\IronNinja\bin\Debug\net6.0\IronNinja.runtimeconfig.json
+D:\JDFolder\CodingDojo-FullTime\Csharp\IronNinja\bin\Debug\net6.0\IronNinja.dll
+D:\JDFolder\CodingDojo-FullTime\Csharp\IronNinja\bin\Debug\net6.0\IronNinja.pdb
+D:\JDFolder\CodingDojo-FullTime\Csharp\IronNinja\obj\Debug\net6.0\IronNinja.dll
+D:\JDFolder\CodingDojo-FullTime\Csharp\IronNinja\obj\Debug\net6.0\refint\IronNinja.dll
+D:\JDFolder\CodingDojo-FullTime\Csharp\IronNinja\obj\Debug\net6.0\IronNinja.pdb
+D:\JDFolder\CodingDojo-FullTime\Csharp\IronNinja\obj\Debug\net6.0\IronNinja.genruntimeconfig.cache
+D:\JDFolder\CodingDojo-FullTime\Csharp\IronNinja\obj\Debug\net6.0\ref\IronNinja.dll
